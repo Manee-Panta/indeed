@@ -2,6 +2,6 @@
 wp-config.php
 
 # Ignore uploads and cache
-wp-content/uploads/
+wp-content
 wp-content/cache/
 wp-admin/
